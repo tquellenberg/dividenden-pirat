@@ -1,0 +1,12 @@
+@charset "UTF-8";
+@import url("/css/lavishbootstrap.css");
+html {
+    overflow-y:scroll;
+}
+body {
+	padding-top: 50px;
+	padding-bottom: 30px;
+}
+.my-jumbotron {
+	margin-top: 20px;
+}
