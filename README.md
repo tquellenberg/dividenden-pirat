@@ -1,5 +1,5 @@
 # dividenden-pirat
-Source of the website dividenden-pirat.de
+Source of the website http://dividenden-pirat.de
 
 
 - Spring Boot Application
